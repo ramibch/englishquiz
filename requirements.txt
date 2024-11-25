@@ -274,7 +274,7 @@ pyhanko-certvalidator==0.23.0
     # via
     #   pyhanko
     #   xhtml2pdf
-pypdf==3.15.4
+pypdf==3.17.0
     # via xhtml2pdf
 pypng==0.20220715.0
     # via qrcode
